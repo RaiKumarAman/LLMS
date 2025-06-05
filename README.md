@@ -160,6 +160,4 @@ This project does not include a LICENSE file and is not explicitly licensed. By 
 
 **Author:** RaiKumarAman
 **GitHub:** [github.com/RaiKumarAman](https://github.com/RaiKumarAman)
-**LinkedIn:** [linkedin.com/in/raikumaraman](https://www.linkedin.com/in/raikumaraman)
-
 ---
